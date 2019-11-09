@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "906895240920",
+    "firebase_url": "https://words-from-word-geniy.firebaseio.com",
+    "project_id": "words-from-word-geniy",
+    "storage_bucket": "words-from-word-geniy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906895240920:android:81bb0d27060db8506031ad",
+        "android_client_info": {
+          "package_name": "com.sayrex.wfw3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906895240920-gqlr6tfkv073kbh6jd5oo1uc0rhpukud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpY7YUcbUMA7iqqbJRJu8O3HQgl9-mYnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906895240920-gqlr6tfkv073kbh6jd5oo1uc0rhpukud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
