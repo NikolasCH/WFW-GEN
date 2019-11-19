@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a6d47b0cb1d98074f8bfe51d648a14cb
+guid: 2f66a403b5e169b4aaff190c193dead2
 TextureImporter:
   fileIDToRecycleName:
     21300000: btn_39
@@ -21,7 +21,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
@@ -74,7 +74,7 @@ TextureImporter:
     buildTarget: iPhone
     maxTextureSize: 1024
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 2
     textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
@@ -87,7 +87,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: f68aee471c21bbb45addcd1e860005c0
+    spriteID: 2a45cc620bf933942a9763877ee93b0a
     vertices: []
     indices: 
     edges: []

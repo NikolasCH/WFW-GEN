@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 274b230ed8158964ab61a931c555216b
+guid: 9db8e8ac77354ce48b8c7408743c7fa2
 TextureImporter:
   fileIDToRecycleName:
     21300000: star_1
@@ -21,7 +21,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
@@ -70,13 +70,24 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 4ad1de261131d804c9d464a398ac6205
+    spriteID: 2ebbec97a56880740bee19b0f5ef28c3
     vertices: []
     indices: 
     edges: []
