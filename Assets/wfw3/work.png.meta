@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 63b67e9bef6a91147b8072eea6fb2831
+guid: 5ec28d980704a5342b7a2320c13de5de
 TextureImporter:
   fileIDToRecycleName:
     21300000: work
@@ -21,7 +21,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 1
+  isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
@@ -74,7 +74,7 @@ TextureImporter:
     buildTarget: iPhone
     maxTextureSize: 1024
     resizeAlgorithm: 0
-    textureFormat: 2
+    textureFormat: -1
     textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
@@ -87,7 +87,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 6a7648beaea168141b643a1e49647d0f
+    spriteID: 512f04263f461664db92070e3a841591
     vertices: []
     indices: 
     edges: []

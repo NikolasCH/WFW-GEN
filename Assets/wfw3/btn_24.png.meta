@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a2424944a1109e248921b51ec2b4a301
+guid: a327b7c4e5fa017478691bff3844c44d
 TextureImporter:
   fileIDToRecycleName:
     21300000: btn_24
@@ -21,7 +21,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 1
+  isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
@@ -70,24 +70,13 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: iPhone
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
-    textureFormat: 2
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 1
-    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 94b45bb0191bd6d46b6ccaebdea15f0a
+    spriteID: 18326fc959bb8b84d81720bd8b770540
     vertices: []
     indices: 
     edges: []

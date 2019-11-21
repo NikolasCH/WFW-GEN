@@ -75,6 +75,9 @@ public class Buttons : Main {
 
 			
 
+			if(gameObject.name=="Sharing")
+				SX.SendMessage("Sharing");      
+				
 			if(gameObject.name=="CloseMSG"){
 				iMap.MSG_1.SetActive(false);
 				iMap.MSG_2.SetActive(false);

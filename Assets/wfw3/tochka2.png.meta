@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 69f599e7ae8159543ad28061ab63ac60
+guid: b4ce2677af02e6f489679efc5f3a3038
 TextureImporter:
   fileIDToRecycleName:
     21300000: tochka2
@@ -21,7 +21,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 1
+  isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
@@ -70,24 +70,13 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: iPhone
-    maxTextureSize: 1024
-    resizeAlgorithm: 0
-    textureFormat: 2
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 1
-    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: dd06596fe674f3e45a9a9ce3e81ebd22
+    spriteID: ac20c36e85af8954d90012c0e1699c78
     vertices: []
     indices: 
     edges: []
