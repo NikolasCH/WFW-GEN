@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c58705f215734483496dce8c227ce840, type: 3}
   m_Name: AN_Settings
   m_EditorClassIdentifier: 
-  LastVersionCode: 2019.18
-  UseUnityJarResolver: 1
-  UnityJarResolverVersion: v1.2.125.0
+  LastVersionCode: 
+  UseUnityJarResolver: 0
+  UnityJarResolverVersion: 
   ManifestManagement: 1
   LogLevel:
     Info: 1
@@ -24,13 +24,13 @@ MonoBehaviour:
   PreferredImagesStorage: 1
   Vending: 1
   Contacts: 0
-  Social: 0
+  Social: 1
   GooglePlay: 1
   CameraAndGallery: 0
   MediaPlayer: 0
   LocalNotifications: 1
   SkipPermissionsDialog: 0
-  RSAPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAh+lX5IHy7pPy2GzSwzUfaN/01BTJ//DPnN/cd5yicMiH47A3hSUfVeUnCBidripMFJJD4KzqFvyMec0LUOmJvTXBuNTv9VivKdGxjINOuaIhQ1RJG5sUwAQWgAkdpVTRLD+vgbvn8SOI8g6ZvTZKlhQ9aFG7R5ITUOdrnObwssz6jSvnLSbEqBvQumKaTbNxxzXq+1ZvylxZIqbV6Yr24xg3vi5Og9NLKxpAG6ltgjmU2rJQTDZdXtxfF/ECse9HMoS4XMItQW9wrIicqIJo81g8Wh+4Ex8fUfnGAK/DijqLfO2E9/tFSUU1QvS4x+ATGQe+1iHzj1SAh20RuMnxrwIDAQAB
+  RSAPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA49tDVIOpVKFNrXM4BerUzIWMOej5R3FCmGsheDzSEbqgYhOhExKQvkFxNU9QdoZcXMl3cYJ9Rp3D/kE/C0gZ0SjAhgabFRyaE8akv7PUEq0wZYi1yK+jIT/f92zo6wmOaPw+mUYdL3W+xON5DL+8ic0DuCpbB57rPUCxWi6JY+ms/CglFxiFJJFAGQDfQwFb/OsQHvCblFinrK/7hUUXH5JNX8d1UNSlCVTbW9euX2ujzQQVMhCMeXIG05VP+DDjoebJO69lBJgXr3P/fbvPJV2gJtGXXfkEHLIA66jzk1UwNJtMH4TDVSWBgcenDnRT6K1hvmJahY680+x9mcoCiwIDAQAB
   InAppProducts:
   - m_Type: inapp
     m_Sku: wfw2_p1
@@ -212,5 +212,5 @@ MonoBehaviour:
     m_OriginalJson: 
     m_IsConsumable: 0
     m_SkuDetailsHashId: 0
-  Licensing: 1
+  Licensing: 0
   GooglePlayGamesAPI: 1

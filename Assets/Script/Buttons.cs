@@ -68,14 +68,24 @@ public class Buttons : Main {
 			if(gameObject.name=="GoolgePLay")
 			{
 
-				System.Uri uri = new System.Uri("market://details?id=com.sayrex.wfw2");
-				AN_Intent viewIntent = new AN_Intent(AN_Intent.ACTION_VIEW, uri);
+			
+#if UNITY_IOS
+
+
+				Application.OpenURL("itms-apps://itunes.apple.com/app/id1496515813");
+#endif
+
+
+#if UNITY_ANDROID
+                System.Uri uri = new System.Uri("market://details?id=com.sayrex.wfw2");
+                AN_Intent viewIntent = new AN_Intent(AN_Intent.ACTION_VIEW, uri);
 				AN_MainActivity.Instance.StartActivity(viewIntent);
+#endif
 			}
 
-			
 
-			if(gameObject.name=="Sharing")
+
+			if (gameObject.name=="Sharing")
 				SX.SendMessage("Sharing");      
 				
 			if(gameObject.name=="CloseMSG"){
