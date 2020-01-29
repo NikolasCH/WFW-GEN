@@ -57,7 +57,7 @@ MonoBehaviour:
     m_editorData:
       Texture: {fileID: 0}
       PriceTier: 0
-      ProductType: 1
+      ProductType: 0
   - m_productIdentifier: wfw_vip3_page_2
     m_localizedDescription: 
     m_localizedTitle: New Product
@@ -89,7 +89,7 @@ MonoBehaviour:
     m_editorData:
       Texture: {fileID: 0}
       PriceTier: 0
-      ProductType: 1
+      ProductType: 0
   - m_productIdentifier: wfw_vip3_page_3
     m_localizedDescription: 
     m_localizedTitle: New Product
@@ -121,7 +121,7 @@ MonoBehaviour:
     m_editorData:
       Texture: {fileID: 0}
       PriceTier: 0
-      ProductType: 1
+      ProductType: 0
   - m_productIdentifier: wfw_vip3_page_4
     m_localizedDescription: 
     m_localizedTitle: New Product
@@ -153,7 +153,7 @@ MonoBehaviour:
     m_editorData:
       Texture: {fileID: 0}
       PriceTier: 0
-      ProductType: 1
+      ProductType: 0
   - m_productIdentifier: wfw3vip_1000
     m_localizedDescription: 
     m_localizedTitle: New Product
@@ -284,7 +284,7 @@ MonoBehaviour:
       ProductType: 0
   - m_productIdentifier: wfw3vip_7000
     m_localizedDescription: 
-    m_localizedTitle: wfw3vip_7000
+    m_localizedTitle: New Product
     m_price: 0.99
     m_priceLocale:
       m_identifier: 

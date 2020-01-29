@@ -674,7 +674,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 416049351}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -525, y: 0, z: 0}
+  m_LocalPosition: {x: -394, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2105222995}
@@ -1142,14 +1142,14 @@ MonoBehaviour:
   updateAnchors: 1
   mColor: {r: 1, g: 1, b: 1, a: 1}
   mPivot: 4
-  mWidth: 70
-  mHeight: 70
+  mWidth: 64
+  mHeight: 79
   mDepth: 4
   mMat: {fileID: 0}
   autoResizeBoxCollider: 0
   hideIfOffScreen: 0
-  keepAspectRatio: 0
-  aspectRatio: 1
+  keepAspectRatio: 1
+  aspectRatio: 0.8113208
   mType: 1
   mFillDirection: 4
   mFillAmount: 1
@@ -1164,7 +1164,7 @@ MonoBehaviour:
   bottomType: 1
   topType: 1
   mAtlas: {fileID: 11487176, guid: cad4348acca904a24b56f30311cb0784, type: 3}
-  mSpriteName: btn_45
+  mSpriteName: medal shapka
   mFixedAspect: 0
   mFillCenter: 1
 --- !u!1 &915330768

@@ -113,19 +113,19 @@ using SA.iOS.Examples;
                 Main.buy();
                 break;
             case PAGE_1:
-                PlayerPrefs.SetInt(PAGE_1, 1);
+                PlayerPrefs.SetInt("page_1", 1);
                 Application.LoadLevelAsync(1);
                 break;
             case PAGE_2:
-                PlayerPrefs.SetInt(PAGE_2, 1);
+                PlayerPrefs.SetInt("page_2", 1);
                 Application.LoadLevelAsync(1);
                 break;
             case PAGE_3:
-                PlayerPrefs.SetInt(PAGE_3, 1);
+                PlayerPrefs.SetInt("page_3", 1);
                 Application.LoadLevelAsync(1);
                 break;
             case PAGE_4:
-                PlayerPrefs.SetInt(PAGE_4, 1);
+                PlayerPrefs.SetInt("page_4", 1);
                 Application.LoadLevelAsync(1);
                 break;  
             default:
