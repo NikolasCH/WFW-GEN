@@ -1,40 +1,37 @@
 {
-  "project_info": {
-    "project_number": "906895240920",
-    "firebase_url": "https://words-from-word-geniy.firebaseio.com",
-    "project_id": "words-from-word-geniy",
-    "storage_bucket": "words-from-word-geniy.appspot.com"
-  },
   "client": [
     {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "906895240920-6asqa1u0tm0otqi5jkegoqc64csgfqls.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfrI9ho-peyHWrs7KmFUT1SccEvztoP08"
+        }
+      ], 
       "client_info": {
-        "mobilesdk_app_id": "1:906895240920:android:81bb0d27060db8506031ad",
+        "mobilesdk_app_id": "1:906895240920:ios:821f8ace0f9ae8486031ad", 
         "android_client_info": {
           "package_name": "com.sayrex.wfw3"
         }
-      },
-      "oauth_client": [
-        {
-          "client_id": "906895240920-gqlr6tfkv073kbh6jd5oo1uc0rhpukud.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDpY7YUcbUMA7iqqbJRJu8O3HQgl9-mYnM"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "906895240920-gqlr6tfkv073kbh6jd5oo1uc0rhpukud.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
       }
     }
-  ],
-  "configuration_version": "1"
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "words-from-word-geniy.appspot.com", 
+    "project_id": "words-from-word-geniy", 
+    "firebase_url": "https://words-from-word-geniy.firebaseio.com", 
+    "project_number": "906895240920"
+  }
 }

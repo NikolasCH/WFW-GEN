@@ -169,7 +169,7 @@ PlayerSettings:
     Android: com.sayrex.wfw3
     iPhone: com.sayrex.wfw3
   buildNumber:
-    iPhone: 6
+    iPhone: 7
   AndroidBundleVersionCode: 37
   AndroidMinSdkVersion: 19
   AndroidTargetSdkVersion: 0
